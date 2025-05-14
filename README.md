@@ -24,6 +24,8 @@ Bu proje, bir e-ticaret sisteminin veri tabanı yapısını tasarlamak ve uygula
 
 -İlişkisel Şema
 
+Not: Modellerin detaylı görüntüsü için "e-ticaret_platformu.pdf" dosyasını inceleyebilirsiniz.
+
 # Notlar
 Bu proje yalnızca veritabanı yapısına odaklanmaktadır; ön yüz veya arka uç uygulaması içermez.
 
